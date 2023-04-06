@@ -2550,7 +2550,9 @@ input[type=checkbox]:checked + label .color {
 .pagination-arrow-l:hover {
   border: 1px solid #000000;
 }
-
+.pagination-center{
+ justify-content: center !important;
+}
 .label-checkbox:hover .color {
   border: 1px solid #000000;
   background: transparent;
